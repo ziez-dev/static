@@ -1,4 +1,5 @@
 .{
+    .fingerprint = 0x9503cd4acf2b49dd,
     .name = .ziez_static,
     .version = "0.0.1",
     .minimum_zig_version = "0.16.0",
